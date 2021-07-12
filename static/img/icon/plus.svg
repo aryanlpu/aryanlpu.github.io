@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.4" height="15.4" viewBox="0 0 15.4 15.4">
+  <g id="plus" transform="translate(0.2 0.2); rotate(45deg)">
+    <g id="Group_6" data-name="Group 6">
+      <path id="Path_44" data-name="Path 44" d="M14.375,6.875H8.125V.625a.625.625,0,1,0-1.25,0v6.25H.625a.625.625,0,1,0,0,1.25h6.25v6.25a.625.625,0,1,0,1.25,0V8.125h6.25a.625.625,0,1,0,0-1.25Z" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+    </g>
+  </g>
+</svg>
